@@ -6,8 +6,7 @@
 
 ## 📕 About
 
-A basic user form made with React.js, it has a dark mode template and minimalist design for a
-modern approach.
+A basic user form made with React.js.
 
 ## 🧑🏻‍💻 Installation
 
