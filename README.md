@@ -6,7 +6,7 @@
 
 ## 📕 About
 
-A basic user form made with React.js.
+An user form made with React.js.
 
 ## 🧑🏻‍💻 Installation
 
